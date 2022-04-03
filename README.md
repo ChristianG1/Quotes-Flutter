@@ -1,6 +1,6 @@
-# quotes
+# Quotes
 
-A new Flutter project.
+A new Flutter project. This project is a manager quotes, you only delete quotes.
 
 ## Getting Started
 
